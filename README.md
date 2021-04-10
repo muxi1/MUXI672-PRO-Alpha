@@ -1,4 +1,4 @@
-**Version 1.21**
+**Version 1.23**
 
 Folgende Payloads sind integriert:
 
