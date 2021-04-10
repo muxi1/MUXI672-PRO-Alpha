@@ -2,11 +2,9 @@
 
 Folgende Payloads sind integriert:
 
-GoldHEN v1.00
+GoldHEN v1.1
 
 BIN Loader
-
-FTP
 
 Game Dumper (App Dumper)
 
@@ -19,8 +17,6 @@ Kernel Dumper
 WebRTE
 
 PS4 Debug
-
-FW Spoofer
 
 History Blocker
 
