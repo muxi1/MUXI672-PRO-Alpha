@@ -1,4 +1,4 @@
-**Version 1.23**
+**Version 1.24**
 
 Folgende Payloads sind integriert:
 
@@ -27,6 +27,8 @@ DB Backup/Restore
 Avatar Backup/Restore
 
 Fake USB
+
+Firmware Spoofer
 
 ToDEX
 
