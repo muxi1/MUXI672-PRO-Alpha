@@ -1,9 +1,10 @@
-**Version 1.25**
+**Version 1.26**
 
-![MUXI672_PRO_Alpha_Black_Edition](https://user-images.githubusercontent.com/39792666/115015702-5c040000-9eb4-11eb-92c5-c92f228c58c8.jpg)
-![MUXI672_PRO_Alpha_Black_Special_Edition](https://user-images.githubusercontent.com/39792666/115015762-763dde00-9eb4-11eb-84c5-73ac3b2a4dbe.jpg)
-![MUXI672_PRO_Alpha_White_Edition](https://user-images.githubusercontent.com/39792666/115015830-8d7ccb80-9eb4-11eb-8203-5817fc38845f.jpg)
-![MUXI672_PRO_Alpha_White_Special_Edition](https://user-images.githubusercontent.com/39792666/115016048-d765b180-9eb4-11eb-9d30-67128ace2087.jpg)
+![MUXI672_PRO_Alpha_Black_Edition](https://user-images.githubusercontent.com/39792666/120903574-2aebb480-c647-11eb-9aac-2f5e62bd9701.jpg)
+![MUXI672_PRO_Alpha_White_Edition](https://user-images.githubusercontent.com/39792666/120903579-32ab5900-c647-11eb-921c-1d8a97d6ccfc.jpg)
+![MUXI672_PRO_Alpha_Black_Special_Edition](https://user-images.githubusercontent.com/39792666/120903588-38a13a00-c647-11eb-869f-bafc5aa22bff.jpg)
+![MUXI672_PRO_Alpha_White_Special_Edition](https://user-images.githubusercontent.com/39792666/120903595-3d65ee00-c647-11eb-9314-4c8efaa11e84.jpg)
+
 
 
 Folgende Payloads sind integriert:
@@ -49,4 +50,6 @@ Aktiviere Luefter Steuerung
 GTA Menue LM v1.32
 
 GTA Menue AG v1.32
+
+Orbis Toolbox v1.0 Alpha
 
