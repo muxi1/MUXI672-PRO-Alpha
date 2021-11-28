@@ -1,13 +1,11 @@
-**Version 1.27**
+**Version 1.28**
+![MUXI672_PRO_Alpha_black](https://user-images.githubusercontent.com/39792666/143764163-2380f79f-7c55-409c-b355-92e277d68719.jpg)
+![MUXI672_PRO_Alpha_black_SE](https://user-images.githubusercontent.com/39792666/143764166-c8cf04de-825b-4462-a539-93aa869c947a.jpg)
 
-![MUXI672_PRO_Alpha_Black_Edition](https://user-images.githubusercontent.com/39792666/121510797-4f011a00-c9e8-11eb-90d1-40c4b3284063.jpg)
-![MUXI672_PRO_Alpha_Black_Special_Edition](https://user-images.githubusercontent.com/39792666/121510822-545e6480-c9e8-11eb-8788-98ed36cedc45.jpg)
-![MUXI672_PRO_Alpha_White_Edition](https://user-images.githubusercontent.com/39792666/121510843-59bbaf00-c9e8-11eb-9695-855fe88d732b.jpg)
-![MUXI672_PRO_Alpha_White_Special_Edition](https://user-images.githubusercontent.com/39792666/121510861-5e806300-c9e8-11eb-83cd-6fe40689c038.jpg)
 
 Folgende Payloads sind integriert:
 
-GoldHEN v1.1
+GoldHEN v2.0b
 
 BIN Loader
 
